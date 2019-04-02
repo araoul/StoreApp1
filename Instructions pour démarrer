@@ -1,0 +1,4 @@
+1-npm install
+2- Dans un premier terminal taper :
+    npm run json : pour démarrer le faux back-end que j'ai créé à l'adresse  : localhost:3500
+3- Dans un second terminal taper : ng serve --open
